@@ -1,0 +1,7 @@
+iai\nlp\Extractor.class
+iai\nlp\Verbs.class
+iai\nlp\Main.class
+iai\nlp\FileUtils.class
+iai\nlp\NLPUtils.class
+iai\nlp\Relation.class
+iai\nlp\NLPUtils$Interceptor.class
